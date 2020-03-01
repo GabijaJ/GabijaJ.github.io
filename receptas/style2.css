@@ -1,0 +1,52 @@
+table {
+  border: 1px solid black;
+  width:auto;
+text-align: center;
+background-color: white;
+font-size: 20;
+margin-left: 200px;
+
+height: auto;
+}
+
+.lentele {
+text-align: center;
+
+height: auto;
+border: 1px solid black;
+
+}
+body{
+  background-color: white;
+}
+
+ 
+.big {
+background-color: 	800080;
+font-family: serif;
+font-size: 40 px;
+text-align: center;
+color: white;
+  }
+img
+{
+  height: 300px;
+  max-width:  400px;
+ border-radius: 15px;
+  
+}
+img:hover {
+  height: 400px;
+  max-width: 300px;
+  
+}
+#vardas
+{
+font-size:20px;
+margin-left: 20px;
+
+
+
+font-family: serif;
+
+}

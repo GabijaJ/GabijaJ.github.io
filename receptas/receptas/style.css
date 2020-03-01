@@ -1,0 +1,62 @@
+body
+{
+  background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+   background-color:  white;
+   font-family: serif;
+   
+}
+.r{
+    font-size: 25px;
+    background-color:   white;
+    font-family: serif;
+    text-align: left;
+    color: crimson;
+    margin-left: 20px;
+}
+.pastr{
+    font-family: serif;
+    font-size: 20px;
+    background-color:   white;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 35%;
+}
+img{
+    position: absolute;
+    margin-top: 10px;
+    right: 100px;
+    display: block;
+    
+    height: 400px;
+    border-radius: 50%;
+    
+}
+
+img:hover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    border-radius: 50%;
+}
+
+ul{ 
+    margin:center;
+    font-family: serif;
+    background-color:  white;
+    font-size: 20px;
+}
+#vardas
+{
+    font-size:20px;
+    background-color:  white;
+    font-family: serif;
+    margin-left: 20px;
+
+
+}
