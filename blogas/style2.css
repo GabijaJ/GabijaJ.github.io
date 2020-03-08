@@ -1,0 +1,42 @@
+
+.foto
+{   margin-right:30px;
+   position: absolute;
+    width:200px;
+    height:350px;
+    margin-left: 900px;
+   
+}
+img{
+    height:500px;
+}
+h1{
+ margin-left: 300px; 
+  
+}
+
+.tekstas1{
+    margin-left: 20px;;
+    display: block;
+    width:750px;
+    font-size: 20px;
+    font-style: normal;
+}
+.nuoroda{
+    margin-left:1020px;
+    font-size: 20px;
+    font-style: normal;
+  margin-top: 110px;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }

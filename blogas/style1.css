@@ -1,0 +1,61 @@
+h1
+{
+    text-align: center;
+    font-size: 30px;
+    
+}
+h2
+{
+    margin-right: 40px;
+    margin-left: 70%;
+    font-size: 20px;
+    word-spacing: 40px;
+}
+img{
+    width: 250px;
+    height: 400px;
+}
+.foto
+{
+    display:block;
+    float: left;
+    padding: 10px;
+    width: 250px;
+    height: 400px;
+    float:bottom;
+}
+
+
+.tekstas{
+    display:block;
+width: 250px;
+font-size:15px;
+
+margin-top: 20px;
+padding: 10px;
+float:right;
+}
+.antraste{
+    
+    display: block;
+    font-size: 20;
+    font-style: oblique;
+margin-left: 277px;
+    padding:10px;
+}
+.pirmas{
+    display: inline-block;
+   width:550px;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
